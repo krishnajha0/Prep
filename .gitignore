@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pytest_cache/
+*.coverage
+htmlcov/
+.dist/
+.build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Node / npm
+node_modules/
+package-lock.json
+npm-debug.log*
+yarn.lock
+
+# AWS CDK build output
+cdk.out/
+
+# IDE / editor
+.vscode/
+*.code-workspace
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
