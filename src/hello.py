@@ -1,5 +1,6 @@
 import json
 
+# Lambda function handler
 def handler(event, context):
     tasks = [
         {"id": 1, "title": "Learn Python"},
