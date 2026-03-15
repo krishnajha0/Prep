@@ -17,3 +17,4 @@ six==1.17.0
 typeguard==2.13.3
 typing_extensions==4.15.0
 urllib3==2.6.3
+pytest==8.3.4
